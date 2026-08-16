@@ -1,5 +1,5 @@
 # meus-exercicios-python-iniciante - 5
-São questões simples para minha pessoa ter uma ser noção do meu progresso. 
+# São questões simples para minha pessoa ter uma ser noção do meu progresso. 
 
 conj1 = {1, 2, 3, 4}
 conj2 = {3, 4, 5, 6}
