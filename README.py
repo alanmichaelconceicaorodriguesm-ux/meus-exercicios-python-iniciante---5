@@ -4,8 +4,8 @@
 conj1 = {1, 2, 3, 4}
 conj2 = {3, 4, 5, 6}
 
-print("Primeiro conjunto: ", conj1)
-print("Segundo conjunto: ", conj2)
+print("Primeiro conjunto 1: ", conj1)
+print("Segundo conjunto 2: ", conj2)
 
 uniao = conj1.union(conj2)
 intersecao = conj1.intersection(conj2)
